@@ -4,9 +4,6 @@ Project matkul Embedded System, FILKOM UB 2026.
 Sistem deteksi kebakaran dini berbasis ESP32 dengan sensor fusion (Flame IR, MQ-2, DS18B20),
 peringatan lokal (LED, buzzer, OLED), dan monitoring jarak jauh lewat MQTT dan Telegram.
 
-## Demo
-[▶ Video demo](LINK_VIDEO_KAMU)
-
 ## Arsitektur
 Sensor → ESP32 (sensor fusion + state machine) → LED, buzzer, OLED
                                                → WiFi → MQTT Broker (HiveMQ Cloud, TLS 8883) → Dashboard dan Telegram Bot
