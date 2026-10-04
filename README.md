@@ -51,8 +51,8 @@ lingkungan, bukan panas komponen elektronik. MQ-2 dan flame sensor ada di bagian
 OLED dan tiga LED indikator di tengah.
 
 ![Render 3D](docs/enclosure-3d.png)
-![Hasil jadi](<img width="747" height="424" alt="image" src="https://github.com/user-attachments/assets/bd3d793a-bf16-4311-954f-fc796922545c" />
-)
+
+![Hasil jadi] <img width="747" height="424" alt="image" src="https://github.com/user-attachments/assets/bd3d793a-bf16-4311-954f-fc796922545c" />
 
 ## Hasil Pengujian
 | Pengujian | Hasil |
