@@ -42,8 +42,8 @@ LED merah/kuning/hijau, buzzer, resistor 220Ω dan 4,7kΩ (pull-up OneWire), bre
 | Buzzer | GPIO 19 |
 | OLED I2C | SDA 21 / SCL 22 |
 
-![Skematik](<img width="992" height="858" alt="image" src="https://github.com/user-attachments/assets/a10dcdfe-f615-4064-abff-a8e78631e10c" />
-.png)
+[Skematik]<img width="992" height="858" alt="image" src="https://github.com/user-attachments/assets/a10dcdfe-f615-4064-abff-a8e78631e10c" />
+
 
 ## Desain Enclosure 3D
 Enclosure didesain di Fusion 360. DS18B20 sengaja dipasang di luar kotak agar mengukur suhu
@@ -51,7 +51,8 @@ lingkungan, bukan panas komponen elektronik. MQ-2 dan flame sensor ada di bagian
 OLED dan tiga LED indikator di tengah.
 
 ![Render 3D](docs/enclosure-3d.png)
-![Hasil jadi](docs/hardware.jpg)
+![Hasil jadi](<img width="747" height="424" alt="image" src="https://github.com/user-attachments/assets/bd3d793a-bf16-4311-954f-fc796922545c" />
+)
 
 ## Hasil Pengujian
 | Pengujian | Hasil |
