@@ -42,7 +42,8 @@ LED merah/kuning/hijau, buzzer, resistor 220Ω dan 4,7kΩ (pull-up OneWire), bre
 | Buzzer | GPIO 19 |
 | OLED I2C | SDA 21 / SCL 22 |
 
-![Skematik](docs/skematik.png)
+![Skematik](<img width="992" height="858" alt="image" src="https://github.com/user-attachments/assets/a10dcdfe-f615-4064-abff-a8e78631e10c" />
+.png)
 
 ## Desain Enclosure 3D
 Enclosure didesain di Fusion 360. DS18B20 sengaja dipasang di luar kotak agar mengukur suhu
